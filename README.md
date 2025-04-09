@@ -1,4 +1,5 @@
 Hi there, my name is Jan and I'm currently learning C#. I used to code professionally in Delphi 25+ years ago but for one reason or another it didn't pan out.
+
 I must say, I find C# both "better" than Delphi in that there's no need to free instantiated objects since .dotnet's garbage collector takes care of that, and "more difficult" since the syntax is a bit more obscure, for lack of a better word.
 
 
