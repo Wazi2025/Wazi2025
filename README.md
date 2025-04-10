@@ -8,6 +8,9 @@ Right now, I'm working on a text adventure like the old Infocom classics (Statio
 ## 📈 GitHub Stats
 ![Jan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazi2025&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact)
+
+
 <!--
 **Wazi2025/Wazi2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
