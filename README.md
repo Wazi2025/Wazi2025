@@ -5,7 +5,7 @@ I'm currently training with [JobLoop](https://www.jobloop.no) (shout-out to all 
 I must say, I find C# both "better" than Delphi in that there's no need to free instantiated objects since .dotnet's garbage collector takes care of that, and "more difficult" since the syntax is a bit more obscure, for lack of a better word.
 But I really like it.
 
-Right now, I'm working on a text adventure like the old Infocom classics (Stationfall, Planetfall, The Lurking Horror, Plundered Hearts, the Zork games and many more). It uses Classes (and of course, object instantiation. C# is OOP, not COP;-) for the rooms and the player. Stay tuned.
+Right now, I'm working on a text adventure like the old Infocom classics (Stationfall, Planetfall, The Lurking Horror, Plundered Hearts, the Zork games and many more). It uses Classes (and of course, object instantiation. C# is OOP, not COP 😉) for the rooms and the player. Stay tuned.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact)
 
