@@ -5,6 +5,9 @@ But I really like it.
 
 Right now, I'm working on a text adventure like the old Infocom classics (Stationfall, Planetfall, The Lurking Horror, Plundered Hearts, the Zork games and many more). It uses Classes (and of course, object instantiation. C# is OOP, not COP;-) for the rooms and the player. Stay tuned.
 
+## 📈 GitHub Stats
+![Jan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazi2025&show_icons=true&theme=tokyonight)
+
 <!--
 **Wazi2025/Wazi2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
