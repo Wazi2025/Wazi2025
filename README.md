@@ -12,7 +12,7 @@ Now comes the hard part; the parser. And the puzzles & storyline.
 Stay tuned.
 
 > [!IMPORTANT]
-"***C# is OOP, not COP***" 👍"
+"***C# is OOP, not COP 👍***"
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact)
 
