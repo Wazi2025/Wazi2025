@@ -9,7 +9,8 @@ Right now, I'm working on a text adventure like the old Infocom classics (Statio
 Inventory list for the player has been implemented and of course, removing it from the specific room the player is in. 
 Now comes the hard part; the parser. And the puzzles & storyline.
 Stay tuned.
-[!TIP]
+
+> [!NOTE]
 "***C# is OOP, not COP***" 👍
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact)
