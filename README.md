@@ -10,7 +10,7 @@ Inventory list for the player has been implemented and of course, removing it fr
 Now comes the hard part; the parser. And the puzzles & storyline.
 Stay tuned.
 
-> [!NOTE]
+> [!IMPORTANT]
 "***C# is OOP, not COP***" 👍
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact)
