@@ -8,6 +8,7 @@ But I really like it.
 Right now, I'm working on a text adventure like the old Infocom classics (Stationfall, Planetfall, The Lurking Horror, Plundered Hearts, the Zork games and many more). It uses Classes for the rooms and the player. 
 Inventory list for the player has been implemented and of course, removing it from the specific room the player is in. 
 Now comes the hard part; the parser. And the puzzles & storyline.
+
 Stay tuned.
 
 > [!IMPORTANT]
