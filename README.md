@@ -13,6 +13,8 @@ Stay tuned.
 
 > [!IMPORTANT]
 "***C# is OOP, not COP***" 👍
+>
+> ***TUPLES: Function Return Overloads™ – because one return just ain’t enough!***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact)
 
