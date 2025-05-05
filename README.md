@@ -13,7 +13,7 @@ Stay tuned.
 
 > [!IMPORTANT]
 "***C# is OOP, not COP***" 👍
->
+
 "***By returning a custom object consisting of different property types, it is, effectively, possible to return ANY kind of variable***"
 >
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact)
