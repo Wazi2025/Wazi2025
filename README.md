@@ -17,7 +17,7 @@ Stay tuned.
 >"***By returning a custom object consisting of different property types, it is, effectively, possible to return ANY kind of variable***"
 >
 > "***Ghosts can be dangerous but only if they are unknown. If they are known; we can install counter-measures***"<br>
-> *From the sayings of TNode*
+> *- From the sayings of TNode -*
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact)
