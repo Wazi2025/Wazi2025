@@ -20,7 +20,9 @@ Stay tuned.
 > *- From the sayings of TNode -*
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=solarized-light
+
+)
 
 
 <!--
