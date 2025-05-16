@@ -20,7 +20,7 @@ Stay tuned.
 > *- From the sayings of TNode -*
 >
 > "***Ghosts in the Machine, but I'm checking***"<br>
-> *- Wing Commander IV -*
+> *- Russo -*
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=graywhite)
