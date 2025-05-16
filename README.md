@@ -19,7 +19,7 @@ Stay tuned.
 > "***'Ghosts' can be dangerous but only if they are 'unknown'. If they are known; we can install counter-measures***"<br>
 > *- From the sayings of TNode -*
 >
-> "***Ghosts in the Machine, but I'm checking***<br>
+> "***Ghosts in the Machine, but I'm checking***"<br>
 > *- Wing Commander IV -*
 
 
