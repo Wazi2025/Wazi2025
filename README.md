@@ -21,6 +21,9 @@ Stay tuned.
 >
 > "***Ghosts in the Machine, but I'm checking***"<br>
 > *- Russo -*
+>
+> “***When one questions the idea of reality… …you're on extremely shaky ground.”***
+> *- 2+2=4 -*
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=graywhite)
