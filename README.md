@@ -22,7 +22,7 @@ Stay tuned.
 > "***Ghosts in the Machine, but I'm checking***"<br>
 > *- Russo -*
 >
-> “***When one questions the idea of reality… …you're on extremely shaky ground.”***
+> “***When one questions the idea of reality… …you're on extremely shaky ground.”***<br>
 > *- 2+2=4 -*
 
 
