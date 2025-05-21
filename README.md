@@ -18,10 +18,7 @@ Stay tuned.
 >
 > "***'Ghosts' can be dangerous but only if they are 'unknown'. If they are known; we can install counter-measures***"<br>
 > *- From the sayings of TNode -*
->
-> "***Ghosts in the Machine, but I'm checking***"<br>
-> *- Russo -*
->
+> 
 > “***When one questions the idea of reality… …you're on extremely shaky ground.”***<br>
 > *- 2+2=4 -*
 
@@ -29,6 +26,10 @@ Stay tuned.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=graywhite)
 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="no_NO" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jan-leirvaag-284888354" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/jan-leirvaag-284888354?trk=profile-badge">Jan Leirvaag</a></div>
+              
 <!--
 **Wazi2025/Wazi2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
