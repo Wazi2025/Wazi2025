@@ -25,10 +25,6 @@ Stay tuned.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=graywhite)
 
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="no_NO" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jan-leirvaag-284888354" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/jan-leirvaag-284888354?trk=profile-badge">Jan Leirvaag</a></div>
               
 <!--
 **Wazi2025/Wazi2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
