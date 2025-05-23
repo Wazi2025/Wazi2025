@@ -14,7 +14,7 @@ Stay tuned.
 > [!IMPORTANT]
 >"***C# is OOP, not COP***" 👍
 >
->"***By returning a custom object consisting of different property types, it is, effectively, possible to return ANY kind of variable***"
+>"***By returning a custom object consisting of different property types, it is, effectively, possible to return ANY kind of variable***"<br>
 >  *- From the sayings of TNode -*
 >
 >"***It’s not that difficult, it just needs a different point of view***"<br>
