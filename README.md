@@ -16,7 +16,7 @@ Stay tuned.
 >
 >"***By returning a custom object consisting of different property types, it is, effectively, possible to return ANY kind of variable***"
 >
-> "***'Ghosts' can be dangerous but only if they are 'unknown'. If they are known; we can install counter-measures***"<br>
+> "***'"It’s not that difficult, it just needs a different point of view."***"<br>
 > *- From the sayings of TNode -*
 > 
 > “***When one questions the idea of reality… …you're on extremely shaky ground.”***<br>
