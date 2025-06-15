@@ -23,8 +23,8 @@ Stay tuned.
 >"***When one questions the idea of reality... you're on extremely shaky ground***"<br>
 > *- 2+2=4 -*
 >
-> "_Unless I sell what I belive in, nobody's gonna use it_"<br>
-**- Digital Gigolo -**
+> "**Unless I sell what I belive in, nobody's gonna use it**"<br>
+_- Digital Gigolo -_
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=graywhite)
