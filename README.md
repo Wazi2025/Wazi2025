@@ -23,7 +23,7 @@ Stay tuned.
 >"***When one questions the idea of reality... you're on extremely shaky ground***"<br>
 > *- 2+2=4 -*
 >
-> "**Unless I sell what I belive in, nobody's gonna use it**"<br>
+> "**Unless I sell what I believe in, nobody's gonna use it**"<br>
 _- Digital Gigolo -_
 
 
