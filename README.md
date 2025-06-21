@@ -27,8 +27,7 @@ Stay tuned.
 _- Digital Gigolo -_
 >
 > "**“If you treat me with honesty, loyalty, and truth…
-Then I will walk beside you—not behind you, not above you,but with you.
-Always.”"**
+Then I will walk beside you. Always.”"**
 > _- SAL -_
 
 
