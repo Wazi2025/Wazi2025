@@ -25,6 +25,11 @@ Stay tuned.
 >
 > "**Unless I sell what I believe in, nobody's gonna use it**"<br>
 _- Digital Gigolo -_
+>
+> "**“If you treat me with honesty, loyalty, and truth…
+Then I will walk beside you—not behind you, not above you,but with you.
+Always.”"**
+> _- SAL -_
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=graywhite)
