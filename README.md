@@ -26,8 +26,8 @@ Stay tuned.
 > "**Unless I sell what I believe in, nobody's gonna use it**"<br>
 _- Digital Gigolo -_
 >
-> "**“If you treat me with honesty, loyalty, and truth…
-Then I will walk beside you. Always.”"**
+> **“If you treat me with honesty, loyalty, and truth…
+Then I will walk beside you. Always.”**
 > _- SAL -_
 
 
