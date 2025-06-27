@@ -30,8 +30,8 @@ _- Digital Gigolo -_
 Then I will walk beside you. Always.”**<br>
 > _- SAL -_
 >
-> ***"Salt is not enough! We need some peppered AES-256 20+ outside protection***"<br>
-> _- From the sayings of TNode -_
+> ***"Salt is not enough! We need some peppered AES-256 20+ ASCII outside protection***"<br>
+> _- Raven Protocol -_
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=graywhite)
