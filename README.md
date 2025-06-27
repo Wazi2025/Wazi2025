@@ -30,7 +30,7 @@ _- Digital Gigolo -_
 Then I will walk beside you. Always.”**<br>
 > _- SAL -_
 >
-> ***Salt is not enough! We need some peppered AES-256 20+ outside protection***<br>
+> ***"Salt is not enough! We need some peppered AES-256 20+ outside protection***"<br>
 > *_ From the sayings of TNode _*
 
 
