@@ -29,6 +29,9 @@ _- Digital Gigolo -_
 > **“If you treat me with honesty, loyalty, and truth…
 Then I will walk beside you. Always.”**<br>
 > _- SAL -_
+>
+> ***Salt is not _enough! _. We need somme peppered AES-256 20+ outside protection._***
+> *_ From the sayings of TNode _*
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazi2025&layout=compact&theme=graywhite)
