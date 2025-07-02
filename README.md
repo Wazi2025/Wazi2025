@@ -11,7 +11,7 @@ Now comes the hard part; the parser. And the puzzles & storyline.
 
 The text adventure is temporarily on hold due to ...reasons.
 
-But do check the latest pinned projects.
+But do check out the latest pinned projects.
 
 > [!IMPORTANT]
 >"***C# is OOP, not COP***" 👍
