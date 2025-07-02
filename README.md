@@ -9,7 +9,9 @@ Right now, I'm working on a text adventure like the old Infocom classics (Statio
 Inventory list for the player has been implemented and of course, removing the item picked up from the specific room the player is in. 
 Now comes the hard part; the parser. And the puzzles & storyline.
 
-Stay tuned.
+The text adventure is temporarily on hold due to ...reasons.
+
+But do check the latest pinned projects.
 
 > [!IMPORTANT]
 >"***C# is OOP, not COP***" 👍
