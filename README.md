@@ -13,6 +13,8 @@ The text adventure is temporarily on hold due to ...reasons.
 
 But do check out the latest pinned projects.
 
+Thanks for stopping by my GitHub. Feel free to drop me a message if you’d like to connect or swap ideas.
+
 > [!IMPORTANT]
 >"***C# is OOP, not COP***" 👍
 >
