@@ -37,7 +37,7 @@ Then I will walk beside you. Always.”**<br>
 > ***"Salt is not enough. We need some peppered AES-256 20+ ASCII outside protection***"<br>
 > _- Raven Protocol -_
 >
-> ***"Sometimes we all need some peace & quiet"***<br>
+> ***"But sometimes; all we need is some peace & quiet"***<br>
 > _- Salt -_
 
 
